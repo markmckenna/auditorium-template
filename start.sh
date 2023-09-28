@@ -5,4 +5,4 @@ if [ ! -f .env ]; then
     ./install.sh
 fi
 
-auditorium run demo.py
+auditorium run index.py
